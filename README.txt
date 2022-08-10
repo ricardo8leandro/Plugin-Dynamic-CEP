@@ -10,5 +10,5 @@ Consulta de CEP via API com shortcode dinâmico. Utilize o shortcode [form_check
  * no local que deseja a consulta de CEP.
 
 == Installation ==
-Baixe o pacote do plugin no repositório no formato zip, na aba plugins no dashboard do seu wordpress instale o pacote baixado e ative o plugin.
+Baixe o pacote do plugin no repositório https://github.com/ricardo8leandro/Plugin-Dynamic-CEP no formato zip, na aba plugins no dashboard do seu wordpress instale o pacote baixado e ative o plugin.
 Após a instalação efetuada utilize o shortcode indicado na area desejada
