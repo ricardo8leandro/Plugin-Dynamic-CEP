@@ -1,0 +1,62 @@
+.containerCep {
+    max-width:500px !important;
+    margin:0 auto;
+    display: block;
+}
+
+#ckeckCep {
+    display:flex;
+    max-width:500px;
+}
+
+#ckeckCep input {
+    font-family: inherit;
+    border: 2px solid #cecece;
+    border-radius:10px;
+    max-width: 70%;
+}
+
+#ckeckCep button {
+    font-family: inherit;
+    border: 2px solid #cecece;
+    border-radius:10px;
+    max-width: 30%;
+    font-size: 12px;
+}
+
+#cepInformado{
+    max-width:500px;
+    height: auto;
+    padding: 20px 10px;
+}
+
+#cepInformado p {
+    font-family: inherit;
+    margin-bottom: 15px;
+    line-height: 12px;
+}
+
+
+@media only screen and (max-width: 600px) {
+    .containerCep {
+        max-width:350px !important;
+        margin:0 auto;
+        display: block;
+    }
+    
+    #ckeckCep {
+        display:flex;
+        max-width:350px;
+    }
+
+    #cepInformado{
+        max-width:350px;
+        height: auto;
+        padding: 10px 50px;
+    }
+
+    #ckeckCep button {
+        padding: 10px;
+        font-size: 10px;
+    }
+  }
